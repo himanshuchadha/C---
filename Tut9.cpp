@@ -79,7 +79,7 @@ int cases()
         cout<<"nothing special in you";
         break;
     }
-}
+}  
 
 int main()
 {
@@ -109,6 +109,6 @@ int main()
 }
 
 
-
+int hii = 6;
 
 
